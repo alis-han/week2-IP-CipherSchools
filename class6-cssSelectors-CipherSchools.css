@@ -1,0 +1,34 @@
+/* Universal Selectors */
+*{
+    margin: 0;
+}
+
+/* Type/Element/Tag Selector */
+strong{
+    font-size: 20px;
+}
+
+/* Class can be used for more than on element */
+.heading{
+    background-color: black;
+}
+
+/* ID is unique can be used once */
+#one {
+    font-size: 30px;
+}
+
+/* Desecendent Selector */
+.div p{
+    font-size: 50px;
+}
+
+/* Grouping_Selector */
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+}
+
+/* Combinig Selector */
+.div .container {
+    font-weight: 2rem;
+}
