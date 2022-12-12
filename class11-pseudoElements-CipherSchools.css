@@ -1,0 +1,19 @@
+p::after{
+    content: "This is the para";
+}
+
+p::before{
+    content: "This is the para";
+}
+
+p::first-line{
+    color: red;
+}
+
+P::selection{
+    background-color: aquamarine;
+}
+
+li::marker{
+    color: green;
+}
