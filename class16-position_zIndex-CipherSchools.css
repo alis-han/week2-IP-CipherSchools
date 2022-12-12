@@ -1,0 +1,15 @@
+.static {
+    position: static;
+}
+
+.relative {
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+.absolute {
+    position: absolute;
+    top:20%;
+    right: 5%;
+}
