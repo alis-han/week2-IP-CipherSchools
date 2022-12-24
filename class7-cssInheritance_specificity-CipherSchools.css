@@ -1,0 +1,12 @@
+body{
+    color: bisque;
+}
+p{
+    color: inherit;
+}
+
+/*Type Selector will overide Universal Selector */
+/* Overiding Specificity
+Id>Class>type>Universal */
+ /* StyleSheet works from bottom so if two or more things assign same so bottom one will override everything above. */
+ 

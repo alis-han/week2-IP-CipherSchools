@@ -1,0 +1,22 @@
+/* Paragraph_Selection */
+p{
+    color:blue;
+    background-color: bisque;
+    /* Absolute Units */
+    width: 20px;
+    /* Relative Units */
+    width: 70vw;
+    margin: 0; 
+    line-height: 1.2;
+    /* 0,line height does not require any unit */
+}
+div{
+    transform: rotate(0deg);
+    width: calc(100%-20px);
+    height: 100vh;
+    background-image: url();
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: blueviolet;
+}

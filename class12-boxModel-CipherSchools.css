@@ -1,0 +1,16 @@
+.box div{
+    display: inline;
+    background-color: blue;
+}
+
+.box span {
+    display: block;
+}
+
+.box {
+    background-color: tan;
+    width: 400px;
+    height: 300px;
+    padding: 10px 20px;
+    margin: 20px 50px 20px 50px;
+}

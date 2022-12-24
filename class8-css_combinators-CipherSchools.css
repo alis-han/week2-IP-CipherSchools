@@ -1,0 +1,22 @@
+/* Combinators */
+
+/* Desendant Selector*/
+header p{
+    color: royalblue;
+}
+
+/* Child Selector */
+header>p{
+    background-color: cornsilk;
+}
+
+/* Adjacent Sibling Selector */
+header + p{
+    font-style: italic;
+}
+
+/* General Sibling Selector */
+header ~ p{
+    background-color: darkgoldenrod;
+    color: #fff;
+}

@@ -1,0 +1,17 @@
+body{
+    background: url() no-repeat -10% 20px url();
+
+}
+
+article{
+    background-color: rgb(rgba(252, 15, 15, 0.724), green, blue);
+    width: 70%;
+    border-radius: 8px;
+    padding:10px;
+    position: absolute;
+}
+
+article h1{
+    font-size: 15px;
+    color: aquamarine;
+}
